@@ -1,5 +1,3 @@
-
-  
 body
 {
     background: #1e1f24;
@@ -55,9 +53,8 @@ body
 
 #footer
 {
-    background: #37488b;
+    background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
 }
-
